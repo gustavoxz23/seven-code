@@ -1,0 +1,42 @@
+.section2{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 2px solid rgb(71, 68, 68);
+}
+
+
+.conteoTextoud2 h3{
+    margin: 30px;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    padding-top: 25px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.conteoTextoud2 p{
+    margin: 30px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+}
+
+.conteoTextoud2 h3, p{
+    color: white;
+}
+
+.buttonSM{
+    margin: 30px;
+    margin-top: 16px;
+    padding: 10px 10px;
+    width: 130px;
+    font-weight: 600;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
